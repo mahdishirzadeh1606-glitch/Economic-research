@@ -1,2 +1,2 @@
 # Economic-research
-Academic research in theoretical economics | Manuscript submitted for publication.
+Academic research in theoretical economics and cryptocurrency | Manuscript submitted for publication.
